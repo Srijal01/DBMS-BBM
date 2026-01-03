@@ -38,7 +38,6 @@ This repository contains a series of SQL laboratory exercises covering fundament
 ---
 
 ## Lab 1: Implementation of DDL statements for creating database
-### Objectives
 a. Write a SQL statement to create a database named COMPANY.  
 b. Write a SQL statement to rename the created database.  
 c. Write a SQL statement to drop database.
