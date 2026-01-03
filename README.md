@@ -72,6 +72,7 @@ d. Write a statement to modify the range of Address column in EMPLOYEE table to 
 | Sandra | Williams | 9069 | 09-05-1998 | Ochi Rios | Female | 189756 | 9090 | 1111 |
 | Peter | Williams | 9090 | 09-05-1978 | Kingston | Male | 1321458 | | 1111 |
 | Jimmy | Walker | 9785 | 09-09-1995 | Mandeville | Male | 234512 | 8080 | 2222 |
+
 a. Write the SQL statement to insert the data in the respective tables.  
 b. Write a SQL statement to update the department number to 3333 whose Ssn is 7070 in EMPLOYEE table.  
 c. Write a SQL statement to update the Department name to Information Technology whose department number is 3333 in DEPARTMENT table.  
